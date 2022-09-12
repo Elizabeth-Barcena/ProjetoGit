@@ -1,7 +1,7 @@
 # Como utilizar o git primeiros passos:
 - Para iniciar abra a pasta que você quer salvar no git e abra com git dash
 - De um git init
-- depois use git add (nome do arquivo)
+- Logo, utilize o git add (nome do arquivo)
 - Para ver o arquivo que você add digite: git status
 - Para fazer o commit: git commit -m "mensagem"
 - Para mudar o nome da branch master para main: git branch -M "main"
@@ -16,7 +16,7 @@
 # Como utilizar branchs:
 Para criar uma nova branch utilize:
 - git checkout -b "(nome da branch)"
-- E salve na nuvem:
+## E salve na nuvem:
 - git add .
 - git commit -m "(nome do commit)" 
 - git push origin nome-da-branch
