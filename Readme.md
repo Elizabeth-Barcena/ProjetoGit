@@ -12,3 +12,9 @@ Após fazer modificações no projeto segue os passos:
 --> git add .
 --> git commit -m "(nome do commit)"
 --> Enviar novas atualizações pra nuvem: git push origin main
+
+Mudar a branch:
+--> git checkout nome-da-branch
+
+Juntar as branchs:
+--> git merge nome-da-branch-que-quer-juntar
